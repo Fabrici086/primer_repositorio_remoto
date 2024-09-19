@@ -1,4 +1,7 @@
 Primer contenido del archivo
 Segunda linea agregada en la rama 2
 Segunda linea agregada desde la rama1
+
 Tercera linea agregada desde la git add 
+
+Ultima línea agregada en rama-remoto
