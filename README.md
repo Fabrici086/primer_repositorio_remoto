@@ -1,3 +1,6 @@
 Contenido del archivo
 
-Este es un proyecto de ejemplo para uso de git
+gitEste es un proyecto de ejemplo para uso de git
+
+
+Linea agregada en repositorio local
